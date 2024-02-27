@@ -9,5 +9,7 @@ int main()
     cout << "Summa:" << a + b;
     cout << "Multiple:" << a * b;
     cout << "Raznosat':" << a - b;
+    //string 12
+    //string 13
 }
 
