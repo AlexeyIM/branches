@@ -10,5 +10,6 @@ int main()
     //return
     //to the main branc
     int x;
+    //мозговой штурм
 }
 
